@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alejandro Quiñones Caicedo</h1>
+<h1 align="center">Hi 👋!</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
 - 🌱 I’m currently learning **SolidJs, NextJs**
